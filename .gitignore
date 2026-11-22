@@ -15,6 +15,7 @@ _netrc
 credentials.json
 secrets.json
 secrets.toml
+/5/config.json
 
 .venv/
 venv/
